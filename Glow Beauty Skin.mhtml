@@ -1,0 +1,170 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/index.html
+Subject: Glow Beauty Skin
+Date: Thu, 24 Jul 2025 22:38:24 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--DgdbGth5gs5pX0jsN5VFvM5NnHmnPPQjizhoedq10G----"
+
+
+------MultipartBoundary--DgdbGth5gs5pX0jsN5VFvM5NnHmnPPQjizhoedq10G----
+Content-Type: text/html
+Content-ID: <frame-05A3F6FC2462796547DB891F348ED7C1@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/index.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+ =20
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0">
+  <title>Glow Beauty Skin</title>
+  <link rel=3D"stylesheet" href=3D"http://127.0.0.1:5500/style.css">
+</head>
+<body>
+  <header>
+    <div class=3D"logo">GlowBeauty</div>
+    <nav>
+      <a href=3D"http://127.0.0.1:5500/index.html#benefits">Benefits</a>
+      <a href=3D"http://127.0.0.1:5500/index.html#services">Services</a>
+      <a href=3D"http://127.0.0.1:5500/index.html#testimonials">Testimonial=
+s</a>
+      <a href=3D"http://127.0.0.1:5500/index.html#contact">Contact</a>
+    </nav>
+   =20
+  </header>
+
+  <section class=3D"hero fade visible">
+    <div class=3D"hero-text">
+      <h1>Glow Naturally with Expert Skin Care</h1>
+      <p>Discover tips, treatments &amp; routines tailored just for your sk=
+in.</p> <br>
+      <a href=3D"http://127.0.0.1:5500/index.html#contact" class=3D"btn">Bo=
+ok Free Consultation</a>
+    </div>
+  </section>
+
+  <section id=3D"benefits" class=3D"benefits fade visible">
+    <h2>Why Choose GlowBeauty?</h2>
+    <div class=3D"benefit-grid">
+      <div class=3D"benefit">
+        <h3>Personalized Care</h3>
+        <p>We analyze your skin and provide custom care routines.</p>
+      </div>
+      <div class=3D"benefit">
+        <h3>Natural Products</h3>
+        <p>We only use organic and chemical-free products.</p>
+      </div>
+      <div class=3D"benefit">
+        <h3>Expert Support</h3>
+        <p>Get guidance from certified dermatologists and skin experts.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id=3D"services" class=3D"services fade visible">
+    <h2>Our Services</h2>
+    <ul>
+      <li>=E2=9C=A8 Facial Treatments</li>
+      <li>=F0=9F=8C=BF Herbal Masks</li>
+      <li>=F0=9F=92=A7 Deep Hydration</li>
+      <li>=F0=9F=8C=9E UV Protection Solutions</li>
+    </ul>
+  </section>
+
+  <section id=3D"testimonials" class=3D"testimonials fade visible">
+    <h2>Happy Clients</h2>
+    <div class=3D"testimonial">
+      <p>"GlowBeauty changed my skin completely. The care is amazing!"</p>
+      <h4>=E2=80=93 Priya, Ahmedabad</h4>
+    </div>
+    <div class=3D"testimonial">
+      <p>"Best natural skincare I=E2=80=99ve ever tried. Highly recommend!"=
+</p>
+      <h4>=E2=80=93 Aarti, Mumbai</h4>
+    </div>
+  </section>
+
+  <section id=3D"contact" class=3D"contact fade visible">
+    <h2>Let=E2=80=99s Glow Together</h2>
+    <p>Enter your email to get weekly skin care tips and discounts!</p>
+    <form>
+      <input type=3D"email" placeholder=3D"Your Email" required=3D"">
+      <button type=3D"submit" class=3D"btn">Subscribe</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>=C2=A9 2025 GlowBeauty. All rights reserved.</p>
+  </footer>
+
+ =20
+<!-- Code injected by live-server -->
+
+
+
+</body></html>
+------MultipartBoundary--DgdbGth5gs5pX0jsN5VFvM5NnHmnPPQjizhoedq10G----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/style.css
+
+@charset "utf-8";
+
+* { margin: 0px; padding: 0px; box-sizing: border-box; }
+
+body { font-family: "Segoe UI", sans-serif; background: rgb(243, 241, 246);=
+ color: rgb(51, 51, 51); }
+
+header { background: rgb(255, 233, 227); padding: 20px 40px; display: flex;=
+ justify-content: space-between; align-items: center; }
+
+.logo { font-size: 1.8rem; font-weight: bold; color: rgb(217, 119, 119); }
+
+nav a { margin-left: 20px; text-decoration: none; color: rgb(51, 51, 51); f=
+ont-weight: 500; }
+
+nav a:hover { color: rgb(217, 119, 119); }
+
+.hero { background: url("https://images.unsplash.com/photo-1584697964154-51=
+c8866b80b4") center center / cover no-repeat; height: 90vh; display: flex; =
+align-items: center; justify-content: center; text-align: center; padding: =
+0px 20px; color: rgb(106, 32, 226); }
+
+.hero h1 { font-size: 3rem; margin-bottom: 15px; }
+
+.btn { background: rgb(217, 119, 119); color: white; padding: 12px 25px; te=
+xt-decoration: none; border: none; border-radius: 30px; cursor: pointer; fo=
+nt-size: 1rem; transition: background 0.3s; }
+
+.btn:hover { background: rgb(185, 84, 84); }
+
+section { padding: 60px 20px; max-width: 1000px; margin: auto; text-align: =
+center; }
+
+.benefit-grid { display: grid; grid-template-columns: repeat(auto-fit, minm=
+ax(230px, 1fr)); gap: 20px; margin-top: 30px; }
+
+.benefit { background: rgb(255, 255, 255); border-radius: 12px; padding: 20=
+px; box-shadow: rgba(0, 0, 0, 0.05) 0px 4px 10px; }
+
+.services ul { list-style: none; font-size: 1.1rem; margin-top: 20px; }
+
+.services li { margin: 10px 0px; }
+
+.testimonial { background: rgb(252, 232, 230); padding: 20px; margin: 20px =
+auto; border-radius: 12px; max-width: 600px; font-style: italic; }
+
+.testimonial h4 { margin-top: 10px; font-weight: normal; color: rgb(217, 11=
+9, 119); }
+
+.contact form { margin-top: 20px; }
+
+.contact input[type=3D"email"] { padding: 10px; width: 250px; max-width: 10=
+0%; border: 1px solid rgb(204, 204, 204); border-radius: 20px; margin-right=
+: 10px; }
+
+footer { background: rgb(51, 51, 51); color: white; text-align: center; pad=
+ding: 20px 0px; }
+------MultipartBoundary--DgdbGth5gs5pX0jsN5VFvM5NnHmnPPQjizhoedq10G------
